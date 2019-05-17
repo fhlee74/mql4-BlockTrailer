@@ -12,6 +12,8 @@ When floating-profit reach 160pips (100+30+30), SL will be set to guarantee 40pi
 I am putting this into GitHub so that everyone can use it, and for others to build and improve upon it.
 
 
-DONATION: If this is useful to you, please send a donation to:
+DONATION:
+If this is useful to you, please send a donation to:
+
 Ether 0xf635118870abe8fd904551a6fb3bb689d10ecec7
 Bitcoin 1Ep1zvNnDPd2trhGMfHtALjFNBxvD82gku
